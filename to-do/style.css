@@ -1,0 +1,13 @@
+.ng-scope{
+  text-align: center;
+}
+
+ul{
+  list-style-type: none;
+}
+
+
+.done-true {
+  text-decoration: line-through;
+  color: white;
+}
